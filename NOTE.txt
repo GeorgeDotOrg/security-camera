@@ -1,0 +1,3 @@
+Video run
+Splice video when person isn't detected
+30%

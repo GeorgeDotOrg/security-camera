@@ -1,0 +1,11 @@
+vid1 - 42s, street corner
+vid2 - 25s, people walking across with white background
+vid3 - 10s, man walking past with phone with street background
+vid4 - 20s, street corner in London
+vid5 - 19s, seperated 2-lane street in London
+vid6 - 31s, rainy bridge in London
+vid7 - 7s, large park
+vid8 - 15s, people walking across with street background
+vid9 - 25s, rainy sidewalk
+vid10 - 10s, street with maintanence fixture in the middle
+vid11 - 18s, street with stopped buses in London
