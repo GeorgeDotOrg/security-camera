@@ -15,7 +15,7 @@
 5. Enter "cd final-project" into terminal if necessary.
 6. Enter "python3 final-project4.py input/***the filename (including .mp4) that you wish to process from. e.g. in-video1.mp*** output/***the filename (including .mp4) that you wish to render the trimmed footage to. e.g. out-video1.mp4***" into the terminal.
 7. Enter the length of the video you wish to input (in seconds) when prompted.
-- Length information available for test videos in input-desc.txt
+    - Length information available for test videos in input-desc.txt
 8. Wait.
 9. See detection log at end of terminal output.
 10. See trimmed video in the output folder.
